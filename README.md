@@ -19,15 +19,15 @@
    ======================================================
 ```
 
-This is a port of the popular real-time card game "Set" for the ti83+/ti84+ graphing calculators. It was programmed in Axe Parser and compiled to z80 assembly. It features a full AI, "perfect" greyscale (achieved my flashing pixels in sync with the screen's refresh rate), and some configurable diffulty settings.
+This is a port of the popular real-time card game "Set" for the ti83+/ti84+ graphing calculators (a series of 15MHz calcultors with z80 processors, and 96x64 monochrome displays) . It was programmed in Axe Parser and compiled to z80 assembly. It features a full AI, "perfect" grayscale (achieved my flashing pixels in sync with the screen's refresh rate), and some configurable difficulty settings.
 
 This game is best played on the ti83+SE/ti84+/ti84+SE calculators.
 
-It can also be played on the ti83+ (and probably also the nspire based emulator), but the greyscale won't look as nice.
-
-If you do not have a calculator, there are several PC, javascript, and android based calculator emulators available that should run this fine. Wabbitemu, jsTIfied, and TilEm are all good options.
+It can also be played on the ti83+ (and probably also the nspire based emulator), but those lack the quartz crystals used for the timing, so the greyscale won't look as nice.
 
 This game is not compatible with the ti83, ti84+CSE, or ti84+CE calculators.
+
+If you do not have a calculator, there are several PC, javascript, and android based calculator emulators available that should run this fine. Wabbitemu, jsTIfied, and TilEm are all good options.
 
 A lot of this code was written in 2012, then sat untouched for five years before being picked up again and finished in 2017.
 
@@ -88,7 +88,6 @@ Difficulty - The amount of time the calculator will take to find a set. This is 
 Penalty - Use this option to turn on/off the penalty for selecting an incorrect set (defaulted to on).
 
 Tune Greyscale - Adjust the contrast and delay of the greyscale. This is launched automatically the first time the game is run. Try adjusting until you see four distinct colors and solid grey (besides for the "scrolling line glitch") Note that this "perfect" greyscale isn't really attainable on the regular ti83+ calculators.
-
 
 # Source Code
 
