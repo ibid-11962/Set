@@ -19,7 +19,7 @@
    ======================================================
 ```
 
-This is a port of the popular real-time card game "Set" for the ti83+/ti84+ graphing calculators. It was programmed in Axe Parser and compiled to z80 assembly.
+This is a port of the popular real-time card game "Set" for the ti83+/ti84+ graphing calculators. It was programmed in Axe Parser and compiled to z80 assembly. It features a full AI, "perfect" greyscale (achieved my flashing pixels in sync with the screen's refresh rate), and some configurable diffulty settings.
 
 This game is best played on the ti83+SE/ti84+/ti84+SE calculators.
 
@@ -58,9 +58,9 @@ The rules of Set are summarized by: If you can sort a group of three cards into 
 
 For example, these three cards form a set:
 
--One black striped diamond
--Two black solid diamonds
--Three black open diamonds
+- One black striped diamond
+- Two black solid diamonds
+- Three black open diamonds
 
 Given any two cards from the deck, there is one and only one other card that forms a set with them.
 
