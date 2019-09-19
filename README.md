@@ -29,7 +29,7 @@ If you do not have a calculator, there are several PC, javascript, and android b
 
 This game is not compatible with the ti83, ti84+CSE, or ti84+CE calculators.
 
-A lot of this code was written in 2012, then set untouched for five years before being picked up again and finished in 2017.
+A lot of this code was written in 2012, then sat untouched for five years before being picked up again and finished in 2017.
 
 [It was featured on ticalc.org in May 2019](https://www.ticalc.org/archives/news/articles/14/149/149262.html)
 
