@@ -93,9 +93,9 @@ Tune Greyscale - Adjust the contrast and delay of the greyscale. This is launche
 
 This program was compiled with Axe Parser 1.2.2
 
-SETSRC.8xp - The main file
-SETPIC.8xp - The graphical data
-GREYLIB.8xp - A library created by Runner112 that was used to implement "perfect" greyscale.
+- SETSRC.8xp - The main file
+- SETPIC.8xp - The graphical data
+- GREYLIB.8xp - A library created by Runner112 that was used to implement "perfect" greyscale.
 
 The source files are binary files, and cannot be viewed in a regular text editor. They're designed to be edited on a calculator with Axe installed, but they can also be opened with programs like [SourceCoder3](https://www.cemetech.net/sc/).
 
